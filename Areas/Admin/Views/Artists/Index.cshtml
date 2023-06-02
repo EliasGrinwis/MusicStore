@@ -1,0 +1,55 @@
+﻿@model IEnumerable<MusicStore.Models.Artist>
+
+@{
+    ViewData["Title"] = "Index";
+    var letters = ViewBag.Letters as List<string>;
+
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@foreach (var letter in letters)
+{
+    <span>
+        @if (string.Equals(ViewBag.SelectedLetter, letter, StringComparison.OrdinalIgnoreCase))
+        {
+            <span>@letter</span>
+        }
+        else
+        {
+            <a asp-controller="Artists" asp-action="Index" asp-route-letter="@letter">@letter</a>
+        }
+    </span>
+    <span>|</span>
+}
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ArtistID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ArtistID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ArtistID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

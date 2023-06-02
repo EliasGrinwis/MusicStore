@@ -1,0 +1,153 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MusicStore
+build_property.RootNamespace = MusicStore
+build_property.ProjectDir = C:\Users\Elias\OneDrive\Thomas More leerstof 2\net_development\www\oefeningen_2dekeer\MusicStore\MusicStore\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Elias\OneDrive\Thomas More leerstof 2\net_development\www\oefeningen_2dekeer\MusicStore\MusicStore
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Albums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWxidW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Albums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWxidW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Albums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWxidW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Albums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWxidW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Albums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWxidW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Artists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Artists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Artists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Artists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Artists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Genres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2VucmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Genres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2VucmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Genres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2VucmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Genres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2VucmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/Genres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2VucmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Checkout/Complete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcQ29tcGxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Checkout/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Shared/Components/CartSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFN1bW1hcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Shared/Components/GenreMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2VucmVNZW51XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Store/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Store/ListAlbums.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcTGlzdEFsYnVtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Store/ListGenres.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcTGlzdEdlbnJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Elias/OneDrive/Thomas More leerstof 2/net_development/www/oefeningen_2dekeer/MusicStore/MusicStore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1zgba6a6we

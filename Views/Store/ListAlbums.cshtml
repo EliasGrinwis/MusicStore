@@ -1,0 +1,22 @@
+﻿@model IEnumerable<MusicStore.Models.Album>
+
+@{
+    ViewData["Title"] = "Albums";
+}
+
+@using MusicStore.Helpers
+
+<div>
+    <ul class="row list-unstyled" id="album-list">
+    @foreach (var album in Model)
+    {
+            <li class="col-lg-2 col-md-2 col-sm-2 col-xs-4 container">
+                <a asp-controller="Store" asp-action="Details" asp-route-id="@album.AlbumID">
+                    <img alt="@album.Title" src="~/content/@(album.AlbumArtUrl)" width="100" />
+                    <br />&nbsp;<br />
+                    <div id="title">@MyHelper.Truncate(album.Title, 20)</div>
+                </a>
+            </li>
+    }
+</ul>
+</div>

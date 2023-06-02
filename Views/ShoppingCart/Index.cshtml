@@ -1,0 +1,65 @@
+﻿@model IEnumerable<MusicStore.Models.CartItem>
+
+@{
+    ViewData["title"] = "Shopping Cart";
+}
+
+<h3>Review your albums</h3>
+<hr />
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Total</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cartItem in Model)
+        {
+            decimal totalPrice = @cartItem.Album.Price * @cartItem.Count;
+            <tr>
+                <td>
+                    <a asp-controller="Store" asp-action="Details" asp-route-id="@cartItem.Album.AlbumID">@cartItem.Album.Title</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => cartItem.Album.Price) euro
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => cartItem.Count)
+                </td>
+                <td>
+                    @totalPrice euro
+                </td>
+                <td>
+                    <a asp-controller="ShoppingCart" asp-action="SubstractOneFromCart" asp-route-id="@cartItem.CartItemID" style="text-decoration:none;">-</a>
+                    |
+                    <a asp-controller="ShoppingCart" asp-action="AddOneToCart" asp-route-id="@cartItem.CartItemID" style="text-decoration:none;">+</a>
+                    |
+                    <a asp-controller="ShoppingCart" asp-action="RemoveFromCart" asp-route-id="@cartItem.CartItemID"style="text-decoration:none;">Remove</a>
+                </td>
+            </tr>
+        }
+        <tr>
+            <th>
+                Total
+            </th>
+            <td></td>
+            <td></td>
+            <th>@Model.Sum(item => item.Count * item.Album.Price)</th>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<div>
+    <a asp-controller="Checkout" asp-action="Create">Checkout</a>
+    <span>|</span>
+    <a asp-controller="Home" asp-action="Index">Back to Home</a>
+</div>
+
+
+

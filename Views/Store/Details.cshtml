@@ -1,0 +1,28 @@
+﻿@model MusicStore.Models.Album
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Album Details</h1>
+
+<h3>@(Html.DisplayFor(model => model.Title))</h3>
+
+<img src="~/content/@Html.DisplayFor(model => model.AlbumArtUrl)" />
+
+<p>Genre: @(Html.DisplayFor(model => model.Genre.Name))</p>
+
+<p>Artist: @(Html.DisplayFor(model => model.Artist.Name))</p>
+
+<p>Price: @(Html.DisplayFor(model => model.Price))</p>
+
+@{
+    // HERE WE SET THE ALBUMID TO INT!!!
+    int albumID = Model.AlbumID;
+}
+
+<div>
+    <a asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-id="@albumID">Add to cart</a>
+
+    <a asp-controller="Home" asp-action="Index">Back</a>
+</div>

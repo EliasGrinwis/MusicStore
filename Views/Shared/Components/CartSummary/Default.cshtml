@@ -1,0 +1,11 @@
+﻿@if (ViewData["CartCount"] != null && (int)ViewData["CartCount"] > 0)
+{
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="ShoppingCart" asp-action="Index" title="Cart">
+                <img src="~/images//shopping-cart.png" height="21" />
+                <span id="cart-status">
+                @ViewData["CartCount"]
+                </span>
+            </a>
+        </li>
+}

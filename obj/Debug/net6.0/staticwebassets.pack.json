@@ -1,0 +1,1201 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MusicStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MusicStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0001.png",
+      "PackagePath": "staticwebassets\\content\\cover0001.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0003.png",
+      "PackagePath": "staticwebassets\\content\\cover0003.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0004.png",
+      "PackagePath": "staticwebassets\\content\\cover0004.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0005.png",
+      "PackagePath": "staticwebassets\\content\\cover0005.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0006.png",
+      "PackagePath": "staticwebassets\\content\\cover0006.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0007.png",
+      "PackagePath": "staticwebassets\\content\\cover0007.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0009.png",
+      "PackagePath": "staticwebassets\\content\\cover0009.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0010.png",
+      "PackagePath": "staticwebassets\\content\\cover0010.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0011.png",
+      "PackagePath": "staticwebassets\\content\\cover0011.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0012.png",
+      "PackagePath": "staticwebassets\\content\\cover0012.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0013.png",
+      "PackagePath": "staticwebassets\\content\\cover0013.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0014.png",
+      "PackagePath": "staticwebassets\\content\\cover0014.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0017.png",
+      "PackagePath": "staticwebassets\\content\\cover0017.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0018.png",
+      "PackagePath": "staticwebassets\\content\\cover0018.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0019.png",
+      "PackagePath": "staticwebassets\\content\\cover0019.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0023.png",
+      "PackagePath": "staticwebassets\\content\\cover0023.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0024.png",
+      "PackagePath": "staticwebassets\\content\\cover0024.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0025.png",
+      "PackagePath": "staticwebassets\\content\\cover0025.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0026.png",
+      "PackagePath": "staticwebassets\\content\\cover0026.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0027.png",
+      "PackagePath": "staticwebassets\\content\\cover0027.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0030.png",
+      "PackagePath": "staticwebassets\\content\\cover0030.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0031.png",
+      "PackagePath": "staticwebassets\\content\\cover0031.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0033.png",
+      "PackagePath": "staticwebassets\\content\\cover0033.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0034.png",
+      "PackagePath": "staticwebassets\\content\\cover0034.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0036.png",
+      "PackagePath": "staticwebassets\\content\\cover0036.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0038.png",
+      "PackagePath": "staticwebassets\\content\\cover0038.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0041.png",
+      "PackagePath": "staticwebassets\\content\\cover0041.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0044.png",
+      "PackagePath": "staticwebassets\\content\\cover0044.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0046.png",
+      "PackagePath": "staticwebassets\\content\\cover0046.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0047.png",
+      "PackagePath": "staticwebassets\\content\\cover0047.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0048.png",
+      "PackagePath": "staticwebassets\\content\\cover0048.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0049.png",
+      "PackagePath": "staticwebassets\\content\\cover0049.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0050.png",
+      "PackagePath": "staticwebassets\\content\\cover0050.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0051.png",
+      "PackagePath": "staticwebassets\\content\\cover0051.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0052.png",
+      "PackagePath": "staticwebassets\\content\\cover0052.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0053.png",
+      "PackagePath": "staticwebassets\\content\\cover0053.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0054.png",
+      "PackagePath": "staticwebassets\\content\\cover0054.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0055.png",
+      "PackagePath": "staticwebassets\\content\\cover0055.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0056.png",
+      "PackagePath": "staticwebassets\\content\\cover0056.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0057.png",
+      "PackagePath": "staticwebassets\\content\\cover0057.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0059.png",
+      "PackagePath": "staticwebassets\\content\\cover0059.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0061.png",
+      "PackagePath": "staticwebassets\\content\\cover0061.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0062.png",
+      "PackagePath": "staticwebassets\\content\\cover0062.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0063.png",
+      "PackagePath": "staticwebassets\\content\\cover0063.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0068.png",
+      "PackagePath": "staticwebassets\\content\\cover0068.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0069.png",
+      "PackagePath": "staticwebassets\\content\\cover0069.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0070.png",
+      "PackagePath": "staticwebassets\\content\\cover0070.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0073.png",
+      "PackagePath": "staticwebassets\\content\\cover0073.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0074.png",
+      "PackagePath": "staticwebassets\\content\\cover0074.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0075.png",
+      "PackagePath": "staticwebassets\\content\\cover0075.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0076.png",
+      "PackagePath": "staticwebassets\\content\\cover0076.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0077.png",
+      "PackagePath": "staticwebassets\\content\\cover0077.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0079.png",
+      "PackagePath": "staticwebassets\\content\\cover0079.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0082.png",
+      "PackagePath": "staticwebassets\\content\\cover0082.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0083.png",
+      "PackagePath": "staticwebassets\\content\\cover0083.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0088.png",
+      "PackagePath": "staticwebassets\\content\\cover0088.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0089.png",
+      "PackagePath": "staticwebassets\\content\\cover0089.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0090.png",
+      "PackagePath": "staticwebassets\\content\\cover0090.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0091.png",
+      "PackagePath": "staticwebassets\\content\\cover0091.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0092.png",
+      "PackagePath": "staticwebassets\\content\\cover0092.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0093.png",
+      "PackagePath": "staticwebassets\\content\\cover0093.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0094.png",
+      "PackagePath": "staticwebassets\\content\\cover0094.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0095.png",
+      "PackagePath": "staticwebassets\\content\\cover0095.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0096.png",
+      "PackagePath": "staticwebassets\\content\\cover0096.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0097.png",
+      "PackagePath": "staticwebassets\\content\\cover0097.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0098.png",
+      "PackagePath": "staticwebassets\\content\\cover0098.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0099.png",
+      "PackagePath": "staticwebassets\\content\\cover0099.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0100.png",
+      "PackagePath": "staticwebassets\\content\\cover0100.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0101.png",
+      "PackagePath": "staticwebassets\\content\\cover0101.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0102.png",
+      "PackagePath": "staticwebassets\\content\\cover0102.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0103.png",
+      "PackagePath": "staticwebassets\\content\\cover0103.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0104.png",
+      "PackagePath": "staticwebassets\\content\\cover0104.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0105.png",
+      "PackagePath": "staticwebassets\\content\\cover0105.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0106.png",
+      "PackagePath": "staticwebassets\\content\\cover0106.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0107.png",
+      "PackagePath": "staticwebassets\\content\\cover0107.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0108.png",
+      "PackagePath": "staticwebassets\\content\\cover0108.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0109.png",
+      "PackagePath": "staticwebassets\\content\\cover0109.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0111.png",
+      "PackagePath": "staticwebassets\\content\\cover0111.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0112.png",
+      "PackagePath": "staticwebassets\\content\\cover0112.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0113.png",
+      "PackagePath": "staticwebassets\\content\\cover0113.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0116.png",
+      "PackagePath": "staticwebassets\\content\\cover0116.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0118.png",
+      "PackagePath": "staticwebassets\\content\\cover0118.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0119.png",
+      "PackagePath": "staticwebassets\\content\\cover0119.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0120.png",
+      "PackagePath": "staticwebassets\\content\\cover0120.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0121.png",
+      "PackagePath": "staticwebassets\\content\\cover0121.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0122.png",
+      "PackagePath": "staticwebassets\\content\\cover0122.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0123.png",
+      "PackagePath": "staticwebassets\\content\\cover0123.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0124.png",
+      "PackagePath": "staticwebassets\\content\\cover0124.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0125.png",
+      "PackagePath": "staticwebassets\\content\\cover0125.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0126.png",
+      "PackagePath": "staticwebassets\\content\\cover0126.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0127.png",
+      "PackagePath": "staticwebassets\\content\\cover0127.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0128.png",
+      "PackagePath": "staticwebassets\\content\\cover0128.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0129.png",
+      "PackagePath": "staticwebassets\\content\\cover0129.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0130.png",
+      "PackagePath": "staticwebassets\\content\\cover0130.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0131.png",
+      "PackagePath": "staticwebassets\\content\\cover0131.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0132.png",
+      "PackagePath": "staticwebassets\\content\\cover0132.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0133.png",
+      "PackagePath": "staticwebassets\\content\\cover0133.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0135.png",
+      "PackagePath": "staticwebassets\\content\\cover0135.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0136.png",
+      "PackagePath": "staticwebassets\\content\\cover0136.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0137.png",
+      "PackagePath": "staticwebassets\\content\\cover0137.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0139.png",
+      "PackagePath": "staticwebassets\\content\\cover0139.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0141.png",
+      "PackagePath": "staticwebassets\\content\\cover0141.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0142.png",
+      "PackagePath": "staticwebassets\\content\\cover0142.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0144.png",
+      "PackagePath": "staticwebassets\\content\\cover0144.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0146.png",
+      "PackagePath": "staticwebassets\\content\\cover0146.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0147.png",
+      "PackagePath": "staticwebassets\\content\\cover0147.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0148.png",
+      "PackagePath": "staticwebassets\\content\\cover0148.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0149.png",
+      "PackagePath": "staticwebassets\\content\\cover0149.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0150.png",
+      "PackagePath": "staticwebassets\\content\\cover0150.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0151.png",
+      "PackagePath": "staticwebassets\\content\\cover0151.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0152.png",
+      "PackagePath": "staticwebassets\\content\\cover0152.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0155.png",
+      "PackagePath": "staticwebassets\\content\\cover0155.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0156.png",
+      "PackagePath": "staticwebassets\\content\\cover0156.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0157.png",
+      "PackagePath": "staticwebassets\\content\\cover0157.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0159.png",
+      "PackagePath": "staticwebassets\\content\\cover0159.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0163.png",
+      "PackagePath": "staticwebassets\\content\\cover0163.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0164.png",
+      "PackagePath": "staticwebassets\\content\\cover0164.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0169.png",
+      "PackagePath": "staticwebassets\\content\\cover0169.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0171.png",
+      "PackagePath": "staticwebassets\\content\\cover0171.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0172.png",
+      "PackagePath": "staticwebassets\\content\\cover0172.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0173.png",
+      "PackagePath": "staticwebassets\\content\\cover0173.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0175.png",
+      "PackagePath": "staticwebassets\\content\\cover0175.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0176.png",
+      "PackagePath": "staticwebassets\\content\\cover0176.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0179.png",
+      "PackagePath": "staticwebassets\\content\\cover0179.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0180.png",
+      "PackagePath": "staticwebassets\\content\\cover0180.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0181.png",
+      "PackagePath": "staticwebassets\\content\\cover0181.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0182.png",
+      "PackagePath": "staticwebassets\\content\\cover0182.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0183.png",
+      "PackagePath": "staticwebassets\\content\\cover0183.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0184.png",
+      "PackagePath": "staticwebassets\\content\\cover0184.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0185.png",
+      "PackagePath": "staticwebassets\\content\\cover0185.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0186.png",
+      "PackagePath": "staticwebassets\\content\\cover0186.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0187.png",
+      "PackagePath": "staticwebassets\\content\\cover0187.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0188.png",
+      "PackagePath": "staticwebassets\\content\\cover0188.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0189.png",
+      "PackagePath": "staticwebassets\\content\\cover0189.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0190.png",
+      "PackagePath": "staticwebassets\\content\\cover0190.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0193.png",
+      "PackagePath": "staticwebassets\\content\\cover0193.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0196.png",
+      "PackagePath": "staticwebassets\\content\\cover0196.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0200.png",
+      "PackagePath": "staticwebassets\\content\\cover0200.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0201.png",
+      "PackagePath": "staticwebassets\\content\\cover0201.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0202.png",
+      "PackagePath": "staticwebassets\\content\\cover0202.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0203.png",
+      "PackagePath": "staticwebassets\\content\\cover0203.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0204.png",
+      "PackagePath": "staticwebassets\\content\\cover0204.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0206.png",
+      "PackagePath": "staticwebassets\\content\\cover0206.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0207.png",
+      "PackagePath": "staticwebassets\\content\\cover0207.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0208.png",
+      "PackagePath": "staticwebassets\\content\\cover0208.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0212.png",
+      "PackagePath": "staticwebassets\\content\\cover0212.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0213.png",
+      "PackagePath": "staticwebassets\\content\\cover0213.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0214.png",
+      "PackagePath": "staticwebassets\\content\\cover0214.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0216.png",
+      "PackagePath": "staticwebassets\\content\\cover0216.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0217.png",
+      "PackagePath": "staticwebassets\\content\\cover0217.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0218.png",
+      "PackagePath": "staticwebassets\\content\\cover0218.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0219.png",
+      "PackagePath": "staticwebassets\\content\\cover0219.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0220.png",
+      "PackagePath": "staticwebassets\\content\\cover0220.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0221.png",
+      "PackagePath": "staticwebassets\\content\\cover0221.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0225.png",
+      "PackagePath": "staticwebassets\\content\\cover0225.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0226.png",
+      "PackagePath": "staticwebassets\\content\\cover0226.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0227.png",
+      "PackagePath": "staticwebassets\\content\\cover0227.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0228.png",
+      "PackagePath": "staticwebassets\\content\\cover0228.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0229.png",
+      "PackagePath": "staticwebassets\\content\\cover0229.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0230.png",
+      "PackagePath": "staticwebassets\\content\\cover0230.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0231.png",
+      "PackagePath": "staticwebassets\\content\\cover0231.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0232.png",
+      "PackagePath": "staticwebassets\\content\\cover0232.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0234.png",
+      "PackagePath": "staticwebassets\\content\\cover0234.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0235.png",
+      "PackagePath": "staticwebassets\\content\\cover0235.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0236.png",
+      "PackagePath": "staticwebassets\\content\\cover0236.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0237.png",
+      "PackagePath": "staticwebassets\\content\\cover0237.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0241.png",
+      "PackagePath": "staticwebassets\\content\\cover0241.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0245.png",
+      "PackagePath": "staticwebassets\\content\\cover0245.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover0246.png",
+      "PackagePath": "staticwebassets\\content\\cover0246.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover247.png",
+      "PackagePath": "staticwebassets\\content\\cover247.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover248.png",
+      "PackagePath": "staticwebassets\\content\\cover248.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover249.png",
+      "PackagePath": "staticwebassets\\content\\cover249.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover250.png",
+      "PackagePath": "staticwebassets\\content\\cover250.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover251.png",
+      "PackagePath": "staticwebassets\\content\\cover251.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover252.png",
+      "PackagePath": "staticwebassets\\content\\cover252.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover253.png",
+      "PackagePath": "staticwebassets\\content\\cover253.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover254.png",
+      "PackagePath": "staticwebassets\\content\\cover254.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover255.png",
+      "PackagePath": "staticwebassets\\content\\cover255.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover256.png",
+      "PackagePath": "staticwebassets\\content\\cover256.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover257.png",
+      "PackagePath": "staticwebassets\\content\\cover257.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover258.png",
+      "PackagePath": "staticwebassets\\content\\cover258.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover259.png",
+      "PackagePath": "staticwebassets\\content\\cover259.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover261.png",
+      "PackagePath": "staticwebassets\\content\\cover261.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover263.png",
+      "PackagePath": "staticwebassets\\content\\cover263.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover264.png",
+      "PackagePath": "staticwebassets\\content\\cover264.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover266.png",
+      "PackagePath": "staticwebassets\\content\\cover266.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover267.png",
+      "PackagePath": "staticwebassets\\content\\cover267.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover270.png",
+      "PackagePath": "staticwebassets\\content\\cover270.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover272.png",
+      "PackagePath": "staticwebassets\\content\\cover272.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover274.png",
+      "PackagePath": "staticwebassets\\content\\cover274.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover275.png",
+      "PackagePath": "staticwebassets\\content\\cover275.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover276.png",
+      "PackagePath": "staticwebassets\\content\\cover276.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover277.png",
+      "PackagePath": "staticwebassets\\content\\cover277.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover278.png",
+      "PackagePath": "staticwebassets\\content\\cover278.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover279.png",
+      "PackagePath": "staticwebassets\\content\\cover279.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover280.png",
+      "PackagePath": "staticwebassets\\content\\cover280.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover281.png",
+      "PackagePath": "staticwebassets\\content\\cover281.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover282.png",
+      "PackagePath": "staticwebassets\\content\\cover282.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover285.png",
+      "PackagePath": "staticwebassets\\content\\cover285.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover286.png",
+      "PackagePath": "staticwebassets\\content\\cover286.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover287.png",
+      "PackagePath": "staticwebassets\\content\\cover287.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover288.png",
+      "PackagePath": "staticwebassets\\content\\cover288.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover289.png",
+      "PackagePath": "staticwebassets\\content\\cover289.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover290.png",
+      "PackagePath": "staticwebassets\\content\\cover290.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover291.png",
+      "PackagePath": "staticwebassets\\content\\cover291.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover292.png",
+      "PackagePath": "staticwebassets\\content\\cover292.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover293.png",
+      "PackagePath": "staticwebassets\\content\\cover293.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover294.png",
+      "PackagePath": "staticwebassets\\content\\cover294.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover295.png",
+      "PackagePath": "staticwebassets\\content\\cover295.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover296.png",
+      "PackagePath": "staticwebassets\\content\\cover296.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover297.png",
+      "PackagePath": "staticwebassets\\content\\cover297.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover298.png",
+      "PackagePath": "staticwebassets\\content\\cover298.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover300.png",
+      "PackagePath": "staticwebassets\\content\\cover300.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover301.png",
+      "PackagePath": "staticwebassets\\content\\cover301.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover303.png",
+      "PackagePath": "staticwebassets\\content\\cover303.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover304.png",
+      "PackagePath": "staticwebassets\\content\\cover304.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover305.png",
+      "PackagePath": "staticwebassets\\content\\cover305.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover306.png",
+      "PackagePath": "staticwebassets\\content\\cover306.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover307.png",
+      "PackagePath": "staticwebassets\\content\\cover307.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover309.png",
+      "PackagePath": "staticwebassets\\content\\cover309.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover310.png",
+      "PackagePath": "staticwebassets\\content\\cover310.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover311.png",
+      "PackagePath": "staticwebassets\\content\\cover311.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover312.png",
+      "PackagePath": "staticwebassets\\content\\cover312.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover313.png",
+      "PackagePath": "staticwebassets\\content\\cover313.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover314.png",
+      "PackagePath": "staticwebassets\\content\\cover314.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover316.png",
+      "PackagePath": "staticwebassets\\content\\cover316.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover317.png",
+      "PackagePath": "staticwebassets\\content\\cover317.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover319.png",
+      "PackagePath": "staticwebassets\\content\\cover319.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover320.png",
+      "PackagePath": "staticwebassets\\content\\cover320.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\cover321.png",
+      "PackagePath": "staticwebassets\\content\\cover321.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\content\\placeholder.png",
+      "PackagePath": "staticwebassets\\content\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\images\\shopping-cart.png",
+      "PackagePath": "staticwebassets\\images\\shopping-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elias\\OneDrive\\Thomas More leerstof 2\\net_development\\www\\oefeningen_2dekeer\\MusicStore\\MusicStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MusicStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MusicStore.props",
+      "PackagePath": "build\\MusicStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MusicStore.props",
+      "PackagePath": "buildMultiTargeting\\MusicStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MusicStore.props",
+      "PackagePath": "buildTransitive\\MusicStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,72 @@
+﻿@model MusicStore.Models.ViewModels.ListGenreArtistVM
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<h3>Filter op:</h3>
+
+<form asp-controller="Albums" asp-action="Index" method="get">
+
+    <div>
+        <span><b>Genre: </b></span>
+        <select asp-for="genreID" asp-items="Model.Genres" onchange="this.form.submit()">
+            <option value="0">-- Select a genre --</option>
+        </select>
+    </div>
+
+    <div>
+        <span><b>Artist: </b></span>
+        <select asp-for="artistID" asp-items="Model.Artists" onchange="this.form.submit()">
+            <option value="0">-- Select an artist --</option>
+        </select>
+    </div>
+
+    <div>
+        <span><b>Title: </b></span>
+        <input asp-for="title" />
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Artist
+            </th>
+            <th>
+                Genre
+            </th>
+            <th>
+                Title
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Albums) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Artist.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre.Name)
+            </td>    
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>   
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AlbumID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AlbumID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AlbumID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
